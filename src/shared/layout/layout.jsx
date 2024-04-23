@@ -5,11 +5,13 @@ import { Outlet } from "react-router-dom";
 export const Layout = () => {
   return (
     <>
-      <Header />
-      <div className="container">
-        <Outlet />
+      <div>
+        <Header />
+        <div className="container-fluid" style={{ height: "100%" }}>
+          <Outlet />
+        </div>
+        <Footer />
       </div>
-      <Footer />
     </>
   );
 };
