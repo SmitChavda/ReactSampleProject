@@ -14,6 +14,29 @@ The project structure is organized as follows:
 - **src/services:** Contains services for making API calls.
 - **src/shared:** Contains shared components like popups, layouts, etc.
 
+## Modules Used
+
+### React-Bootstrap
+
+- **Reason for Use:** To easily incorporate pre-designed Bootstrap components into the project, saving development time and effort.
+- **Features Used:** Provides a wide range of customizable UI components like buttons, forms, modals, etc.
+
+### Bootstrap
+
+- **Reason for Use:** To leverage the power of the Bootstrap framework for styling and layout.
+- **Features Used:** Offers a responsive grid system, pre-styled components, and utility classes for faster development.
+
+### Axios
+
+- **Reason for Use:** To simplify HTTP requests and handle API interactions efficiently.
+- **Features Used:** Supports promise-based requests, automatic JSON parsing, and interceptors for request/response handling.
+
+### React-Router-Dom
+
+- **Reason for Use:** To enable client-side routing and navigation within the React application.
+- **Features Used:** Allows defining routes, handling navigation events, and passing parameters to components.
+
+
 ## Getting Started
 
 ### Prerequisites
