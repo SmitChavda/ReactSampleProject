@@ -1,6 +1,6 @@
-# My React Project
+# Sample React Project
 
-This is a React project bootstrapped with Vite, a next-generation frontend tooling.
+This is a React project bootstrapped with Vite, a next-generation frontend tooling. It can be used as base project to build react applications as per requirements
 
 ## Project Structure
 
