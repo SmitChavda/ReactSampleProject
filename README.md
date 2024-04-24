@@ -2,6 +2,8 @@
 
 This is a React project bootstrapped with Vite, a next-generation frontend tooling. It can be used as base project to build react applications as per requirements.
 
+React version used:- React 18
+
 ## Project Structure
 
 The project structure is organized as follows:
