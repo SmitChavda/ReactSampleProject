@@ -2,7 +2,7 @@ import axiosInstance from "src/helpers/axiosInstance";
 
 class HomeService {
   getPosts = () => {
-    return axiosInstance.get("/posts");
+    return axiosInstance.get("/posts?_page=1");
   };
 }
 
